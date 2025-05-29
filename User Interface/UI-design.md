@@ -1,1 +1,2 @@
 Link giao diện Đặt hàng: https://www.figma.com/design/SDlzGGf76iRTKzVkmmQeGK/Untitled?node-id=0-1&t=naVFxigXjwv799PE-1
+Link giao diện kiểm tra đơn hàng: https://www.figma.com/design/7z727sVk7J6GO0Q1LrjrpK/Kiem-tra-don-hang?node-id=0-1&p=f
